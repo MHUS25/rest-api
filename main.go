@@ -19,6 +19,26 @@ type Author struct {
 	Lastname  string `json:"lastname"`
 }
 
+func getBooks(w http.ResponseWriter, r *http.Request) {
+
+}
+
+func getBook(w http.ResponseWriter, r *http.Request) {
+
+}
+
+func createBook(w http.ResponseWriter, r *http.Request) {
+
+}
+
+func updateBook(w http.ResponseWriter, r *http.Request) {
+
+}
+
+func deleteBook(w http.ResponseWriter, r *http.Request) {
+
+}
+
 func main() {
 	router := mux.NewRouter()
 
