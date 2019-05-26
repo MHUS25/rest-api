@@ -1,6 +1,10 @@
 # rest-api
 
-RESTful CRUD API
+RESTful CRUD API written in Go
+
+## Getting started
+
+### To set up the project
 
 1. clone repo
 
